@@ -1,0 +1,15 @@
+age,income,student,credit_rating,buys_computer
+LE30,high,no,fair,no
+LE30,high,no,excellent,no
+31T40,high,no,fair,yes
+GT40,medium,no,fair,yes
+GT40,low,yes,fair,yes
+GT40,low,yes,excellent,no
+31T40,low,yes,excellent,yes
+LE30,medium,no,fair,no
+LE30,low,yes,fair,yes
+GT40,medium,yes,fair,yes
+GT40,medium,yes,excellent,yes
+31T40,medium,no,excellent,yes
+31T40,high,yes,fair,yes
+GT40,medium,no,excellent,no
